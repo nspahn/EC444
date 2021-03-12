@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "serialport": "^9.0.7",
+    "ws": "^7.4.4"
+  }
+}

@@ -1,0 +1,5 @@
+source "C:/Users/noahs/Desktop/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/noahs/Desktop/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/noahs/Desktop/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/noahs/Desktop/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/noahs/Desktop/esp-idf/examples/skills/cluster-2/12/code/Skill12/main/Kconfig.projbuild"

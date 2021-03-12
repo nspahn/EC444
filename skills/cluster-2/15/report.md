@@ -12,7 +12,7 @@ This skill is another distance skill that utilizes the adc. Rather than utilizin
 
 
 ## Modules, Tools, Source Used Including Attribution
-The modules involved in this project were a module to read in the IR sensor and to report them to the console. 
+The modules involved in this project were a module to read in the IR sensor and to report them to the console. Proceduarlly the same process was repeated to initialise the adc. The IR sensor was calabrated using the spec sheet and a if else tree was used translating the distance adc inputs into readings. The IR sensor in some ways seemed better equipt to handle the task compared to bugs that I ran into with the sonar distancing means.
 
 ## Supporting Artifacts
 
