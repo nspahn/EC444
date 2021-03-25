@@ -1,12 +1,11 @@
-#  Skill Name
+# Triple-axis Accelerometer
 
-Author: FirstName LastName
-
-Date: YYYY-MM-DD
+Author: Noah Spahn
+Date: 2021-03-19
 -----
 
 ## Summary
-
+This skill utilised the accelorometer and the i2c to create a accelorameter read. 
 
 ## Sketches and Photos
 
