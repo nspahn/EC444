@@ -5,8 +5,7 @@ Date: 2021-03-20
 -----
 
 ## Summary
-In this skill the pwd was usitlised in the esp 32 by staggering the waves given a users input for a given light brightness. The funcitons were initially borrowed from the example ledc and the timing was reduced from 3 seconds per step to a single step every 250ms. This was achived by reducing the initial 3000 LEDC_TEST_FADE_TIME. The brightness was achived by stagnating the pwd to reduce the intensity of the led. 
-## Sketches and Photos
+In this skill, the PWD was utilized in the esp 32 by staggering the waves given a user's input for a given light brightness. The functions were initially borrowed from the example led, and the timing was reduced from 3 seconds per step to a single action every 250ms. I  achieved lower time steps by reducing the initial 3000 LEDC_TEST_FADE_TIME. I reached the brightness by stagnating the PWD to lessen the intensity of the led. ## Sketches and Photos
 Video in drive of fade - 
 https://drive.google.com/file/d/14gBBNzVeKfr6pR-G1ZbnBdWWElm-WB-F/view?usp=sharing
 https://drive.google.com/file/d/1-zI8EMISSCI5QHuP6gzTVC8-U5ftzufE/view?usp=sharing

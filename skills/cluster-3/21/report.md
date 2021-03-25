@@ -5,8 +5,7 @@ Date: 2021-03-19
 -----
 
 ## Summary
-In this skill we set up the rasberry pi to register the periferal camera and use raspistill to capture an image on the camera. I was able to get this skill wor work by taking a esp32cam and push that video stream to a local server. The data was then read by the raspberry pi. 
-
+We set up the raspberry pi to register the peripheral camera and use raspistill to capture an image on the camera in this skill. I was able to get this skill wor work by taking an esp32cam and push that video stream to a local server. The data was then read by a raspberry pi. 
 ## Sketches and Photos
 
 ## Modules, Tools, Source Used Including Attribution
