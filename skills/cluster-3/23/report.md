@@ -9,7 +9,7 @@ This skill utilized the accelerometer and the i2c to create an accelerometer rea
 
 ## Sketches and Photos
 https://drive.google.com/file/d/1-zI8EMISSCI5QHuP6gzTVC8-U5ftzufE/view?usp=sharing (pitch not working)
-https://drive.google.com/file/d/1-zI8EMISSCI5QHuP6gzTVC8-U5ftzufE/view?usp=sharing (pitch corrected)
+https://drive.google.com/file/d/1X1ry2u4uhGDC1tPthH3sDp7gPX3SdmEu/view?usp=sharing (pitch corrected)
 
 ## Modules, Tools, Source Used Including Attribution
 The modules were adapted from the example give,https://esp32.com/viewtopic.php?t=11760 and https://wiki.dfrobot.com/How_to_Use_a_Three-Axis_Accelerometer_for_Tilt_Sensing. as well as https://www.adafruit.com/product/4097
